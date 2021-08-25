@@ -1,28 +1,28 @@
 
 [{
   "id": 1,
-  "articulo": "Abigale",
-  "precio": 5121.02,
+  "articulo": "Remera Lisa Algodon Peinado",
+  "precio": 1120,
   "stock": 19,
-  "imagen": "https://st4.depositphotos.com/10614052/38642/i/1600/depositphotos_386424078-stock-photo-stylish-school-uniform-wooden-background.jpg"
+  "imagen": "https://http2.mlstatic.com/D_NQ_NP_922306-MLA40172525284_122019-O.jpg"
 }, {
   "id": 2,
-  "articulo": "Franciska",
-  "precio": 3282.78,
+  "articulo": "Remera Lisa Bordo",
+  "precio": 3280,
   "stock": 46,
-  "imagen": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+  "imagen": "https://www.digitalsport.com.ar/files/products/5c2a02bc86ca2-484776-500x500.jpg"
 }, {
   "id": 3,
-  "articulo": "Shannah",
-  "precio": 1481.11,
+  "articulo": "Remera Niño Azul Francia",
+  "precio": 1480,
   "stock": 98,
-  "imagen": "http://dummyimage.com/250x250.png/dddddd/000000"
+  "imagen": "https://www.remerasya.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/r/e/remera_azul_lisa_3.jpg"
 }, {
   "id": 4,
-  "articulo": "Alanah",
-  "precio": 5218.84,
+  "articulo": "Remera Algodon Blanco",
+  "precio": 2100,
   "stock": 40,
-  "imagen": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
+  "imagen": "https://www.guantexindustrial.com.ar/710-large_default/remera-algodon-jersey-blanco-talle-xxl.jpg"
 }, {
   "id": 5,
   "articulo": "Benetta",
